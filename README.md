@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Jordel Vitor
 
-<!--
-**jordelvitor/jordelvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unopar  
+💻 Apaixonado por tecnologia, com foco em desenvolvimento **back-end**  
+📚 Estudando Java, Spring Boot e bancos de dados relacionais  
+🚀 Buscando minha primeira oportunidade como **Dev Júnior**
 
-Here are some ideas to get you started:
+## 💡 Tecnologias que estou aprendendo:
+- Java ☕
+- Spring Boot
+- MySQL
+- HTML, CSS e JavaScript
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em andamento:
+- Sistema de cadastro de produtos (Java + MySQL)
+- Aplicações de estudo com APIs REST
+
+📫 [Me chame no LinkedIn](https://www.linkedin.com/in/jordel-vitor)
+
